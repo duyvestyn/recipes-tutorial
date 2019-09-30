@@ -7,6 +7,8 @@ In this episode we setup a Netlify Lambda fetch recipes from an Airtable Base. T
 
 ## Development
 
+### Frontend
+
 Install dependencies
 
 ```
@@ -18,6 +20,8 @@ Run Create React App
 ```
 yarn start
 ```
+
+### Backend
 
 Run Netlify Lambda dev server
 
