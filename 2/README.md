@@ -40,5 +40,5 @@ yarn
 Run dev server
 
 ```
-yarn lambda:serve
+AIRTABLE_KEY=<your api key> yarn lambda:serve
 ```
