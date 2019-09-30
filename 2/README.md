@@ -3,7 +3,7 @@
 Create a recipe website using CRA, Netlify and Airtable.
 
 
-In this episode we setup a Netlify Lambda fetch recipes from an Airtable Base. Then we create a `useRecipes` hook to fetch recipes from our newly created Lambda function and we wire up the `Navigation` component to display our recipes.
+In this episode we setup a Netlify Lambda function to fetch recipes from an Airtable Base. Then we create a `useRecipes` hook to fetch recipes from our newly created Lambda function and we wire up the `Navigation` component to display our recipes.
 
 ## Development
 
